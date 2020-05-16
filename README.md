@@ -1,5 +1,7 @@
 # JavaScript_Challenge
 CWRU Homework 14
+
+
 Final homework, for full filtering of UFO data (UFO_Level_2) can be accessed here:
 
 https://chrisbock76.github.io/JavaScript_Challenge/
